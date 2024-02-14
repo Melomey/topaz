@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
+          My name is Samuel, Ella is our group leader , Rofiat our therapist and .
         </p>
         <a
           className="App-link"
