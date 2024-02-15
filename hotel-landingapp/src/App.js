@@ -7,9 +7,11 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
+          This is Roffy   ...
           Edit <code>src/App.js</code> and save to reload.
           My name is Samuel, Ella is our group leader , Rofiat our therapist and .
         </p>
+
         <a
           className="App-link"
           href="https://reactjs.org"
